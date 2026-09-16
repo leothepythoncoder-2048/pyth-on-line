@@ -1,5 +1,12 @@
-# Reactive & Interactive programming with Pyodide
-
-This repo contains the [Pythonline website](https://pyth-on-line.promplate.dev/about) and related subcomponents, including:
-
-- [`hmr`](./packages/hmr): a library for reactive programming and hot module reloading [[Docs]](https://hmr.promplate.dev/) [[Home]](https://pyth-on-line.promplate.dev/hmr) [[PyPI]](https://pypi.org/project/hmr/) [[Demo]](https://github.com/promplate/hmr)
+print  ('hint: always put a space in between evrey WORD you type')
+name = input ("what is your name ")
+lastname = input ('what is your last name ')
+print ("hello " + name +  lastname)
+age: str = input ('how old are you')
+print  ('just to conform you are ' + age + ' years old')
+email = input (" what is your email ")
+print ('your email is: ' + email)
+phonenumber: str = input ("what is your phone number")
+print (phonenumber)
+print('click this link for a youtube tutorial on how to code https://www.youtube.com/watch?v=xvFZjo5PgG0')
+print ('thank you')
